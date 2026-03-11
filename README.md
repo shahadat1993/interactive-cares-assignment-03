@@ -16,7 +16,7 @@
 
 ### Email: s0735949@gmail.com
 
-[ Live url](https://your-portfolio-live-link.comhttps://shahadat1993.github.io/interactive-cares-assignment-03/)
+[ Live url](https://shahadat1993.github.io/interactive-cares-assignment-03/)
 
 ---
 
