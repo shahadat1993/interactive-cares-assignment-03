@@ -4,18 +4,6 @@
 
 ### Email: s0735949@gmail.com
 
-[ Live url](# Assignment : Portfolio Website Assignment
-
-### Name : Shahadat Hossen
-
-### Email: s0735949@gmail.com
-
-[ Live url](# Assignment : Portfolio Website Assignment
-
-### Name : Shahadat Hossen
-
-### Email: s0735949@gmail.com
-
 [ Live url](https://shahadat1993.github.io/interactive-cares-assignment-03/)
 
 ---
